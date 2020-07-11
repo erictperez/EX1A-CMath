@@ -1,0 +1,7 @@
+C:\Users\bulld\source\repos\EX1A-C\bin\Debug\EX1A-C.exe.config
+C:\Users\bulld\source\repos\EX1A-C\bin\Debug\EX1A-C.exe
+C:\Users\bulld\source\repos\EX1A-C\bin\Debug\EX1A-C.pdb
+C:\Users\bulld\source\repos\EX1A-C\obj\Debug\EX1A-C.csprojAssemblyReference.cache
+C:\Users\bulld\source\repos\EX1A-C\obj\Debug\EX1A-C.csproj.CoreCompileInputs.cache
+C:\Users\bulld\source\repos\EX1A-C\obj\Debug\EX1A-C.exe
+C:\Users\bulld\source\repos\EX1A-C\obj\Debug\EX1A-C.pdb
